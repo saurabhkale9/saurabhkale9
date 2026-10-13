@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Saurabh Kale 👋
 
-<!--
-**saurabhkale9/saurabhkale9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Full Stack Developer | Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm a final-year Computer Science Engineering student passionate about building web applications and developing efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,react,vite,spring,hibernate,mysql,git,maven,vscode,eclipse,idea,theme=dark)](https://skillicons.dev)
+
+
+### 🚀 What I'm Working On
+- Developing an Employee Management System
+- Building a Job Application Tracker using Spring Boot, React.js, and MySQL
+- Practicing Java programming and problem-solving
+
+### 🎯 Career Goal
+To start my career as a Software Developer and contribute to real-world software projects while continuously improving my technical skills.
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/saurabhkale898
+- Email: saurabhkale898@gmail.com
